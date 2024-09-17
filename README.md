@@ -28,7 +28,7 @@ Supplement e-commerce, buy quickly online using the stripe gateway.</p>
 
 ## 🔺 Demo
 
-### [Live Demo, click here]()
+### [Live Demo, click here](https://supplements-shop-jhonatan-bergmann.vercel.app/)
 
 ## 📦 Tech Stack
 
@@ -54,9 +54,9 @@ To install and run the project locally, follow these steps:
 
 #### ⚙️ Stripe
 
-https://docs.stripe.com/testing
-
-here...
+1. Create your account on Stripe.
+2. Copy the keys, the public and the secret, and paste them into the .env file.
+3. To test the payment, access: [link](https://docs.stripe.com/testing).
 
 ## 📝 License
 
